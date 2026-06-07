@@ -1,6 +1,6 @@
 # Healthcare Claims & Eligibility Data Validation
 
-> SQL-based data validation project simulating pre-migration UAT checks for a healthcare payer system — covering claims, eligibility, provider, and member data integrity.
+> SQL-based data validation project simulating pre-migration UAT checks for a healthcare payer system, covering claims, eligibility, provider, and member data integrity.
 
 ---
 
